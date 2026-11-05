@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "أفق",
+      "hasCanvas": true,
+      "bodyTextLen": 503,
+      "bodyTextHash": "e79eaaf48a572c2154d7b3db1728f5333477a3cb0057c4fe6b02f37201291fc9",
+      "bodyTextPrefix": "أفق مرصد شخصي المرصد المشغل الديوان المقام الأطلس الأرشيف مرصد ش",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "أفق",
+      "hasCanvas": true,
+      "bodyTextLen": 493,
+      "bodyTextHash": "960ac51001908b21be5fa7b25ad0721ef8ef666de73a0a73463cc953332f1d51",
+      "bodyTextPrefix": "أفق المرصد المشغل الديوان المقام الأطلس الأرشيف مرصد شخصي للعمل ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
